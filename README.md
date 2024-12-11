@@ -13,7 +13,7 @@
     <br/>  <br/>
 📫 Email: karimovmoff@gmail.com
       <br/>  <br/>
-🌐 Telegram: https://t.me/Fenix_Qaqnus
+<img src="https://skillicons.dev/icons?i=telegram" /> Telegram: https://t.me/Fenix_Qaqnus
     <br/>  <br/>
 🌐 Portfolio: https://karimov.netlify.app
 </div>
